@@ -1,0 +1,9 @@
+{
+  "provider": "groq",
+  "model": "llama-3.3-70b-versatile",
+  "maxTokens": 1024,
+  "temperature": 0.6,
+  "streaming": false,
+  "retries": 3,
+  "timeout": 45000
+}
